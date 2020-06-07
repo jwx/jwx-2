@@ -1,7 +1,7 @@
 {
   "name": "jwx-2",
   "version": "0.3.1",
-  "description": "",
+  "description": "CLI test - jwx-2",
   "main": "lib/index.js",
   "files": [
     "dist",
