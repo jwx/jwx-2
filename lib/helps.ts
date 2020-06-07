@@ -7,11 +7,11 @@ export default {
         ],
     },
     "localize": {
-        description: "Installs the jwx-2 CLI in your current project, making 'npx jwx-2' be faster.",
+        description: "Installs the jwx-cli2 CLI in your current project, making 'npx jwx-cli2' be faster.",
         args: [],
     },
     "globalize": {
-        description: "Installs the jwx-2 CLI globally, meaning the 'npx' can be left out.",
+        description: "Installs the jwx-cli2 CLI globally, meaning the 'npx' can be left out.",
         args: [],
     },
     "build": {
